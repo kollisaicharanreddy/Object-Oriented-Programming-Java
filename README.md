@@ -9,7 +9,7 @@ This repository contains Java programs covering the core Object-Oriented Program
 ### Problem Statement
 Create a `Student` class with attributes such as student ID, name, and marks. Implement methods to display student details and calculate the student's grade based on marks.
 
-**Solution:** `ClassAndObjects/Students.java`
+**Solution:** [ClassAndObjects/Students.java](ClassAndObjects/Students.java)
 
 ---
 
@@ -18,7 +18,7 @@ Create a `Student` class with attributes such as student ID, name, and marks. Im
 ### Problem Statement
 Design a `BankAccount` class with private attributes for account details and balance. Provide controlled access through methods to deposit, withdraw, and view account information while enforcing validation rules.
 
-**Solution:** `Encapsulation/BankAccount.java`
+**Solution:** [Encapsulation/BankAccount.java](Encapsulation/BankAccount.java)
 
 ---
 
@@ -27,7 +27,7 @@ Design a `BankAccount` class with private attributes for account details and bal
 ### Problem Statement
 Create multiple student objects and store them in an array. Display all student details, identify the topper, and calculate the average marks of the class.
 
-**Solution:** `ArraysOfObjects/Student.java`
+**Solution:** [ArraysOfObjects/Student.java](ArraysOfObjects/Student.java)
 
 ---
 
@@ -37,10 +37,10 @@ Create multiple student objects and store them in an array. Display all student 
 Create a base class `Person` and derive `Student` and `Employee` classes from it. Reuse common properties while allowing each child class to display its specific information.
 
 **Solution:**
-- `Inheritance/Person.java`
-- `Inheritance/Student.java`
-- `Inheritance/Employee.java`
-- `Inheritance/Main.java`
+- [Inheritance/Person.java](Inheritance/Person.java)
+- [Inheritance/Student.java](Inheritance/Student.java)
+- [Inheritance/Employee.java](Inheritance/Employee.java)
+- [Inheritance/Main.java](Inheritance/Main.java)
 
 ---
 
@@ -50,10 +50,10 @@ Create a base class `Person` and derive `Student` and `Employee` classes from it
 Create an `Animal` hierarchy where different animals produce different sounds. Use parent class references to invoke child class behavior at runtime.
 
 **Solution:**
-- `Polymorphism/Animal.java`
-- `Polymorphism/Dog.java`
-- `Polymorphism/Cat.java`
-- `Polymorphism/Main.java`
+- [Polymorphism/Animal.java](Polymorphism/Animal.java)
+- [Polymorphism/Dog.java](Polymorphism/Dog.java)
+- [Polymorphism/Cat.java](Polymorphism/Cat.java)
+- [Polymorphism/Main.java](Polymorphism/Main.java)
 
 ---
 
@@ -63,10 +63,10 @@ Create an `Animal` hierarchy where different animals produce different sounds. U
 Create an abstract `Employee` class with a salary calculation contract. Implement different salary calculation strategies for full-time and part-time employees.
 
 **Solution:**
-- `Abstraction/Employee.java`
-- `Abstraction/FullTimeEmployee.java`
-- `Abstraction/PartTimeEmployee.java`
-- `Abstraction/Main.java`
+- [Abstraction/Employee.java](Abstraction/Employee.java)
+- [Abstraction/FullTimeEmployee.java](Abstraction/FullTimeEmployee.java)
+- [Abstraction/PartTimeEmployee.java](Abstraction/PartTimeEmployee.java)
+- [Abstraction/Main.java](Abstraction/Main.java)
 
 ---
 
@@ -76,11 +76,11 @@ Create an abstract `Employee` class with a salary calculation contract. Implemen
 Design a payment processing system using interfaces. Implement multiple payment methods such as Credit Card, UPI, and Wallet while interacting with them through a common interface.
 
 **Solution:**
-- `Interface/PaymentMethod.java`
-- `Interface/CreditCardPayment.java`
-- `Interface/UpiPayment.java`
-- `Interface/WalletPayment.java`
-- `Interface/Main.java`
+- [Interface/PaymentMethod.java](Interface/PaymentMethod.java)
+- [Interface/CreditCardPayment.java](Interface/CreditCardPayment.java)
+- [Interface/UpiPayment.java](Interface/UpiPayment.java)
+- [Interface/WalletPayment.java](Interface/WalletPayment.java)
+- [Interface/Main.java](Interface/Main.java)
 
 ---
 
@@ -90,9 +90,9 @@ Design a payment processing system using interfaces. Implement multiple payment 
 Model a `Car` and an `Engine` using composition. A car should contain an engine object and use it to display engine-related information.
 
 **Solution:**
-- `Composition/Engine.java`
-- `Composition/Car.java`
-- `Composition/Main.java`
+- [Composition/Engine.java](Composition/Engine.java)
+- [Composition/Car.java](Composition/Car.java)
+- [Composition/Main.java](Composition/Main.java)
 
 ---
 
